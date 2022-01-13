@@ -1,0 +1,13 @@
+#about-me h1 {
+    text-align: center;
+    
+    padding: 5rem;
+}
+
+#about-me p {
+    padding: 0 5rem;
+}
+
+// .nav-link {
+//     background-color: #333;
+// }
