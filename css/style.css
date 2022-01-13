@@ -514,7 +514,19 @@ blockquote .svg-inline--fa {
       font-size: 2rem;
    }
    .fixed-dark {
-      background-image: url('../img/portfolio/1.jpg')
+      background-image: url('../img/IMG_1681.JPG');
+      position: fixed;
+      height: 120%;
+      width: 100%;
+      background-size: cover;
+      background-position: center center;
+      -webkit-transform: translateZ(0);
+      transform: translateZ(0);
+      will-change: transform;
+      z-index: -1;
+      top: 0;
+      left: 0;
+       display: table;
    }
    .fixed-light {
       background-image: url('../img/fixed/office-mobile.jpg')
